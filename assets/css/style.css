@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;900&display=swap');
+
+html {
+  font-size: 100% !important;
+  scroll-behavior: smooth;
+}
+
+/* Typography */
+body,
+td,
+textarea,
+input {
+  font-size: 100% !important;
+  background: white;
+  font-family: "Nunito", sans-serif !important;
+  font-weight: 400 !important;
+  line-height: 1.75 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Nunito", sans-serif !important;
+}
+
+h6 {
+  font-size: 1.3em;
+  font-weight: medium;
+  margin-top: 24px;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+.method-get {
+  color: green
+}
+
+.method-post {
+  color: orange
+}
+
+.pre {
+  background: #F3F6FB;
+  padding: 6px 16px !important;
+  border: solid 1px #e7eaee;
+  border-radius: 4px;
+  margin-top: 8px
+}
+
+.font-light {
+  font-weight: 300;
+}
+
+.font-regular {
+  font-weight: 400;
+}
+
+/* table */
+.content table {
+  width: 100%
+}
+
+.content table tr :nth-child(2n) {
+  background-color: #fff !important;
+}
+
+.content table tr td {
+  border: 1px solid #ccc;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+.content table.no-border tr {
+  border-top: 0 solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.content table.no-border tr td {
+  border: none;
+  margin: 0;
+  padding: 6px 0;
+}
