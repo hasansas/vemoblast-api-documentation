@@ -85,3 +85,15 @@ p {
   margin: 0;
   padding: 6px 0;
 }
+
+/* img */
+img {
+  max-width: 100%;
+}
+
+/* blockquote */
+blockquote {
+  border-left: 8px solid #e7eaee;
+  background: #F3F6FB;
+  padding: 16px 16px 2px !important;
+}
