@@ -2,9 +2,9 @@
 
 To get started with vemoblas API, follow the steps given below.
 
-1. Login to your **[Console](https://console.blast.vemobo.com)**
-2. Go to **Access Key** under **Credential** menu.
-2. Retrieve API access Keys.
+1. Login to your **Dashboard**
+2. Go to **Access Key** under **Developer** menu.
+3. Retrieve API access Keys.
 
 ## Authorization
 
